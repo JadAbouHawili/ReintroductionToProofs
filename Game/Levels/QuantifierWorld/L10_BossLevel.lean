@@ -1,7 +1,7 @@
-import Game.Levels.QuantifierWorld.L08_NegatingUniversality
+import Game.Levels.QuantifierWorld.L09_NegatingUniversality
 
 World "QuantifierWorld"
-Level 9
+Level 10
 
 Title "Boss Level"
 

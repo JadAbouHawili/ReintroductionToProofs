@@ -1,7 +1,7 @@
-import Game.Levels.QuantifierWorld.L07_NegatingExistence
+import Game.Levels.QuantifierWorld.L08_NegatingExistence
 
 World "QuantifierWorld"
-Level 8
+Level 9
 
 Title "Negating Universality"
 

@@ -1,7 +1,7 @@
-import Game.Levels.QuantifierWorld.L04_IntroducingExistence
+import Game.Levels.QuantifierWorld.L05_InjectedElements
 
 World "QuantifierWorld"
-Level 5
+Level 6
 
 Title "Multiple Quantifiers"
 

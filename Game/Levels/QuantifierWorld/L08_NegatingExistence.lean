@@ -1,7 +1,7 @@
-import Game.Levels.QuantifierWorld.L06_CommutingQuantifiers
+import Game.Levels.QuantifierWorld.L07_CommutingQuantifiers
 
 World "QuantifierWorld"
-Level 7
+Level 8
 
 Title "Negating Existence"
 

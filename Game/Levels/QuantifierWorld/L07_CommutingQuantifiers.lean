@@ -1,7 +1,7 @@
-import Game.Levels.QuantifierWorld.L05_MultipleQuantifiers
+import Game.Levels.QuantifierWorld.L06_MultipleQuantifiers
 
 World "QuantifierWorld"
-Level 6
+Level 7
 
 Title "Commuting Quantifiers"
 

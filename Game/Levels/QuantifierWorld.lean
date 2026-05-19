@@ -2,11 +2,12 @@ import Game.Levels.QuantifierWorld.L01_UniversalTruth
 import Game.Levels.QuantifierWorld.L02_MoreTransitivity
 import Game.Levels.QuantifierWorld.L03_UniversalElimination
 import Game.Levels.QuantifierWorld.L04_IntroducingExistence
-import Game.Levels.QuantifierWorld.L05_MultipleQuantifiers
-import Game.Levels.QuantifierWorld.L06_CommutingQuantifiers
-import Game.Levels.QuantifierWorld.L07_NegatingExistence
-import Game.Levels.QuantifierWorld.L08_NegatingUniversality
-import Game.Levels.QuantifierWorld.L09_BossLevel
+import Game.Levels.QuantifierWorld.L05_InjectedElements
+import Game.Levels.QuantifierWorld.L06_MultipleQuantifiers
+import Game.Levels.QuantifierWorld.L07_CommutingQuantifiers
+import Game.Levels.QuantifierWorld.L08_NegatingExistence
+import Game.Levels.QuantifierWorld.L09_NegatingUniversality
+import Game.Levels.QuantifierWorld.L10_BossLevel
 
 World "QuantifierWorld"
 Title "Quantifier World"
